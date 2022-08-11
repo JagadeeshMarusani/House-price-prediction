@@ -1,11 +1,16 @@
 # House-price-prediction
 PROBLEM STATEMENT
 Buying a house is dream for many people, but they often don't know the price given the features of the house they want.
+
 So, they may end up paying more than the actual price. So, we are builing a linear regression model to predict the house price
+
 Data Definition
 MSSubClass: Identifies the type of dwelling involved in the sale
+
 MSZoning: Identifies the general zoning classification of the sale.
+
 LotFrontage: Linear feet of street connected to property
+
 LotArea: Lot size in square feet
 Street: Type of road access to property
 Alley: Type of alley access to property
